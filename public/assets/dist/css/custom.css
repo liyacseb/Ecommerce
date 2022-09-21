@@ -1,0 +1,14 @@
+.error{
+    color: red;
+}
+.dt-buttons{    
+    margin:10px 0 10px 0 !important;    
+}
+.dt-button-collection{
+    margin-top:10px !important;
+    margin-bottom:10px !important;
+}
+/* .card-tools a{
+    background-color:blanchedalmond !important;
+    color: blue !important;
+} */
